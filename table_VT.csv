@@ -1,0 +1,16 @@
+countyname,mo,crash19,fatal19,rate19,crash20,fatal20,rate20,pchange
+Addison,June,34,0,0,18,0,0,0
+Bennington,June,49,0,0,23,0,0,0
+Caledonia,June,27,1,3.7,16,1,6.25,68.75
+Chittenden,June,296,1,0.34,104,0,0,-100
+Essex,June,7,1,14.29,2,0,0,-100
+Franklin,June,42,0,0,20,0,0,0
+Grand Isle,June,8,0,0,1,0,0,0
+Lamoille,June,25,1,4,24,0,0,-100
+Orange,June,28,0,0,18,1,5.56,999
+Orleans,June,22,0,0,11,0,0,0
+Rutland,June,75,0,0,21,2,9.52,999
+Unknown,June,174,0,0,337,0,0,0
+Washington,June,53,0,0,25,3,12,999
+Windham,June,99,0,0,49,0,0,0
+Windsor,June,101,0,0,47,2,4.26,999
