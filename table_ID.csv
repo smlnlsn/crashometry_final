@@ -1,10 +1,10 @@
 countyname,mo,crash19,fatal19,rate19,crash20,fatal20,rate20,pchange
-Ada,June,643,0,0,48,1,2.0833333333333335,Inf
+Ada,June,643,0,0,48,1,2.0833333333333335,999
 Adams,June,8,0,0,0,NA,NA,
 Bannock,June,137,1,0.7299270072992701,4,2,50,6750
 Bear lake,June,3,NA,NA,2,NA,NA,
 Benewah,June,15,0,0,4,NA,NA,
-Bingham,June,50,0,0,8,1,12.5,Inf
+Bingham,June,50,0,0,8,1,12.5,999
 Blaine,June,35,3,8.571428571428571,0,0,NaN,NaN
 Boise,June,13,2,15.384615384615385,1,1,100,550
 Bonner,June,41,0,0,5,0,0,0
@@ -21,10 +21,10 @@ Custer,June,1,0,0,0,NA,NA,
 Elmore,June,49,0,0,8,0,0,0
 Franklin,June,4,0,0,0,NA,NA,
 Fremont,June,12,0,0,2,NA,NA,
-Gem,June,7,0,0,0,1,Inf,Inf
+Gem,June,7,0,0,0,1,Inf,999
 Gooding,June,18,1,5.555555555555555,3,0,0,-100
 Idaho,June,18,0,0,0,0,NaN,0
-Jefferson,June,22,0,0,1,1,100,Inf
+Jefferson,June,22,0,0,1,1,100,999
 Jerome,June,30,3,10,11,1,9.090909090909092,-9.09090909090908
 Kootenai,June,152,0,0,18,0,0,0
 Latah,June,34,0,0,3,NA,NA,
