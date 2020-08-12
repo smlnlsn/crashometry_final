@@ -1,0 +1,45 @@
+countyname,mo,crash19,fatal19,rate19,crash20,fatal20,rate20,pchange
+Ada,June,643,0,0,48,1,2.0833333333333335,Inf
+Adams,June,8,0,0,0,NA,NA,
+Bannock,June,137,1,0.7299270072992701,4,2,50,6750
+Bear lake,June,3,NA,NA,2,NA,NA,
+Benewah,June,15,0,0,4,NA,NA,
+Bingham,June,50,0,0,8,1,12.5,Inf
+Blaine,June,35,3,8.571428571428571,0,0,NaN,NaN
+Boise,June,13,2,15.384615384615385,1,1,100,550
+Bonner,June,41,0,0,5,0,0,0
+Bonneville,June,111,1,0.9009009009009009,6,0,0,-100
+Boundary,June,6,0,0,3,0,0,0
+Butte,June,2,0,0,0,0,NaN,0
+Camas,June,3,NA,NA,0,NA,NA,
+Canyon,June,340,1,0.29411764705882354,50,4,8,2620
+Caribou,June,9,0,0,0,NA,NA,
+Cassia,June,34,0,0,5,NA,NA,
+Clark,June,5,NA,NA,3,NA,NA,
+Clearwater,June,10,0,0,1,NA,NA,
+Custer,June,1,0,0,0,NA,NA,
+Elmore,June,49,0,0,8,0,0,0
+Franklin,June,4,0,0,0,NA,NA,
+Fremont,June,12,0,0,2,NA,NA,
+Gem,June,7,0,0,0,1,Inf,Inf
+Gooding,June,18,1,5.555555555555555,3,0,0,-100
+Idaho,June,18,0,0,0,0,NaN,0
+Jefferson,June,22,0,0,1,1,100,Inf
+Jerome,June,30,3,10,11,1,9.090909090909092,-9.09090909090908
+Kootenai,June,152,0,0,18,0,0,0
+Latah,June,34,0,0,3,NA,NA,
+Lemhi,June,10,0,0,3,NA,NA,
+Lewis,June,3,0,0,1,0,0,0
+Lincoln,June,7,0,0,0,0,NaN,0
+Madison,June,45,2,4.444444444444445,5,0,0,-100
+Minidoka,June,14,0,0,5,NA,NA,
+Nez perce,June,61,1,1.639344262295082,5,0,0,-100
+Oneida,June,15,0,0,3,NA,NA,
+Owyhee,June,11,0,0,3,0,0,0
+Payette,June,19,0,0,1,0,0,0
+Power,June,10,NA,NA,2,NA,NA,
+Shoshone,June,17,1,5.882352941176471,4,NA,NA,
+Teton,June,6,0,0,0,NA,NA,
+Twin falls,June,115,1,0.8695652173913043,8,3,37.5,4212.5
+Valley,June,17,0,0,2,0,0,0
+Washington,June,7,0,0,1,NA,NA,
