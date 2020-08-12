@@ -1,40 +1,40 @@
 countyname,mo,crash19,fatal19,rate19,crash20,fatal20,rate20,pchange
-Adams,June,47,0,0,NA,NA,NA,
-Asotin,June,17,0,0,NA,NA,NA,
-Benton,June,368,0,0,NA,NA,NA,
-Chelan,June,133,1,0.75,NA,NA,NA,
-Clallam,June,96,0,0,NA,NA,NA,
-Clark,June,555,4,0.72,NA,NA,NA,
-Columbia,June,6,0,0,NA,NA,NA,
-Cowlitz,June,166,2,1.2,NA,NA,NA,
-Douglas,June,54,0,0,NA,NA,NA,
-Ferry,June,10,1,10,NA,NA,NA,
-Franklin,June,128,1,0.78,NA,NA,NA,
-Garfield,June,9,0,0,NA,NA,NA,
-Grant,June,209,3,1.44,NA,NA,NA,
-Grays harbor,June,107,0,0,NA,NA,NA,
-Island,June,78,1,1.28,NA,NA,NA,
-Jefferson,June,37,0,0,NA,NA,NA,
-King,June,4490,10,0.22,1,0,0,-100
-Kitsap,June,353,5,1.42,NA,NA,NA,
-Kittitas,June,136,2,1.47,NA,NA,NA,
-Klickitat,June,36,0,0,NA,NA,NA,
-Lewis,June,135,2,1.48,NA,NA,NA,
-Lincoln,June,18,1,5.56,NA,NA,NA,
-Mason,June,103,0,0,NA,NA,NA,
-Okanogan,June,55,0,0,NA,NA,NA,
-Pacific,June,29,0,0,NA,NA,NA,
-Pend oreille,June,9,1,11.11,NA,NA,NA,
-Pierce,June,1517,9,0.59,NA,NA,NA,
-San juan,June,16,0,0,NA,NA,NA,
-Skagit,June,257,1,0.39,NA,NA,NA,
-Skamania,June,17,0,0,NA,NA,NA,
-Snohomish,June,1497,5,0.33,NA,NA,NA,
-Spokane,June,880,1,0.11,NA,NA,NA,
-Stevens,June,29,0,0,NA,NA,NA,
-Thurston,June,465,1,0.22,NA,NA,NA,
-Wahkiakum,June,4,0,0,NA,NA,NA,
-Walla walla,June,98,2,2.04,NA,NA,NA,
-Whatcom,June,305,3,0.98,NA,NA,NA,
-Whitman,June,43,0,0,NA,NA,NA,
-Yakima,June,462,7,1.52,NA,NA,NA,
+Adams,May,41,1,2.44,26,0,0,-100
+Asotin,May,18,0,0,17,0,0,0
+Benton,May,386,1,0.26,235,2,0.85,228.51
+Chelan,May,142,1,0.7,75,1,1.33,89.33
+Clallam,May,99,1,1.01,66,0,0,-100
+Clark,May,537,1,0.19,361,0,0,-100
+Columbia,May,9,0,0,5,0,0,0
+Cowlitz,May,181,3,1.66,110,0,0,-100
+Douglas,May,65,0,0,26,0,0,0
+Ferry,May,11,0,0,9,0,0,0
+Franklin,May,122,0,0,100,0,0,0
+Garfield,May,4,2,50,4,0,0,-100
+Grant,May,159,0,0,120,1,0.83,999
+Grays harbor,May,128,0,0,103,1,0.97,999
+Island,May,84,0,0,39,1,2.56,999
+Jefferson,May,45,2,4.44,29,0,0,-100
+King,May,4546,9,0.2,2098,13,0.62,212.99
+Kitsap,May,335,0,0,210,3,1.43,999
+Kittitas,May,134,0,0,86,0,0,0
+Klickitat,May,29,0,0,26,0,0,0
+Lewis,May,130,0,0,112,2,1.79,999
+Lincoln,May,13,0,0,15,0,0,0
+Mason,May,79,1,1.27,70,0,0,-100
+Okanogan,May,38,1,2.63,31,0,0,-100
+Pacific,May,31,0,0,18,1,5.56,999
+Pend oreille,May,7,0,0,9,0,0,0
+Pierce,May,1605,9,0.56,1018,10,0.98,75.18
+San juan,May,15,0,0,4,0,0,0
+Skagit,May,300,0,0,139,4,2.88,999
+Skamania,May,13,0,0,10,1,10,999
+Snohomish,May,1517,8,0.53,846,2,0.24,-55.17
+Spokane,May,904,4,0.44,601,4,0.67,50.42
+Stevens,May,32,0,0,40,2,5,999
+Thurston,May,520,2,0.38,245,4,1.63,324.49
+Wahkiakum,May,6,0,0,3,0,0,0
+Walla walla,May,113,0,0,82,0,0,0
+Whatcom,May,369,3,0.81,169,0,0,-100
+Whitman,May,49,0,0,33,0,0,0
+Yakima,May,399,2,0.5,303,1,0.33,-34.16
